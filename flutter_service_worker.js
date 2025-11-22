@@ -21,7 +21,7 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2e
 "canvaskit/canvaskit.js": "140ccb7d34d0a55065fbd422b843add6",
 "canvaskit/skwasm.wasm": "264db41426307cfc7fa44b95a7772109",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "96ac8919167f0734e12526c57c8e2a06",
+"main.dart.js": "edf79054188b53493e19e3d6e54b3bb4",
 "drift_worker.js": "afac8b57eb80f0846a382f7303929b0f",
 "version.json": "d719eadd803865d36d63873d78578b86",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
@@ -36,7 +36,7 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2e
 "drift_worker.dart": "eb8219d0cb3e6396dee4f89b6f833ecc",
 "index.html": "82b7036ac5a224256d91e394a95010dc",
 "/": "82b7036ac5a224256d91e394a95010dc",
-"flutter_bootstrap.js": "ac41d124c8af5423af5eacfd3296ba70",
+"flutter_bootstrap.js": "a21d02d1a4b7a024d8f46eeaf87dcb0b",
 "sqlite3.wasm": "fa7637a49a0e434f2a98f9981856d118"};
 // The application shell files that are downloaded before a service worker can
 // start.
